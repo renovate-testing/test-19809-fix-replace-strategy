@@ -1,0 +1,2 @@
+[dependencies]
+lazy-regex = "3.3"
